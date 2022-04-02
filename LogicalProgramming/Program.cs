@@ -10,6 +10,9 @@ namespace LogicalProgramming
     {
         static void Main(string[] args)
         {
+            LogicalPrograms.Fibonacci fibSeries = new LogicalPrograms.Fibonacci();
+            fibSeries.CalculateFibonacciSeries();
+            Console.ReadLine();
         }
     }
 }
