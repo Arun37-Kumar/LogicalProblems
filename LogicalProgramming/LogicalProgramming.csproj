@@ -48,6 +48,7 @@
     <Compile Include="LogicalPrograms\PerfectNumber.cs" />
     <Compile Include="LogicalPrograms\PrimeNumber.cs" />
     <Compile Include="LogicalPrograms\ReverseNumber.cs" />
+    <Compile Include="LogicalPrograms\ElaspedTimeStopWatch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

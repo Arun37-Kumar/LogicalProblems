@@ -25,6 +25,7 @@ namespace LogicalProgramming
             //reverNumberCompute.getReverse();
             //Coupon Number
             LogicalPrograms.CouponNumber.DistinctCoupon();
+            LogicalPrograms.ElaspedTimeStopWatch.ElapsedTime();
             Console.ReadLine();
         }
     }
