@@ -12,6 +12,9 @@ namespace LogicalProgramming
         {
             LogicalPrograms.Fibonacci fibSeries = new LogicalPrograms.Fibonacci();
             fibSeries.CalculateFibonacciSeries();
+            Console.WriteLine();
+            LogicalPrograms.PerfectNumber perfectNumberCompute = new LogicalPrograms.PerfectNumber();
+            perfectNumberCompute.FindPerfectNumber();
             Console.ReadLine();
         }
     }
