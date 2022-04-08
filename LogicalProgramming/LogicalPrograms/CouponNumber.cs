@@ -28,6 +28,7 @@ namespace LogicalProgramming.LogicalPrograms
                     continue;
                 }
             }
+            Console.WriteLine("Total count : {0}",count);
         }
     }
 }
