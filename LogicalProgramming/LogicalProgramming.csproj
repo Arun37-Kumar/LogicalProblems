@@ -49,14 +49,14 @@
     <Compile Include="LogicalPrograms\PrimeNumber.cs" />
     <Compile Include="LogicalPrograms\ReverseNumber.cs" />
     <Compile Include="LogicalPrograms\ElaspedTimeStopWatch.cs" />
+    <Compile Include="NUnitTesting\TemperatureConversion.cs" />
+    <Compile Include="NUnitTesting\VendingMachine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="N Unit Testing Programs\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
