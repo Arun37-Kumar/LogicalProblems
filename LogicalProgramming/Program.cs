@@ -26,15 +26,16 @@ namespace LogicalProgramming
             //Coupon Number
             //LogicalPrograms.CouponNumber.DistinctCoupon();
             //LogicalPrograms.ElaspedTimeStopWatch.ElapsedTime();
-            NUnitTesting.VendingMachine.CalculateNotes();
+            //NUnitTesting.VendingMachine.CalculateNotes();
 
-            double ConvertCelciusToFahrenheit = NUnitTesting.TemperatureConversion.CelToFah();
-            Console.WriteLine("Celcius to Fahrenheit : "+ConvertCelciusToFahrenheit);
+            //double ConvertCelciusToFahrenheit = NUnitTesting.TemperatureConversion.CelToFah();
+            //Console.WriteLine("Celcius to Fahrenheit : "+ConvertCelciusToFahrenheit);
 
-            double ConvertFahrenheitToCelcius = NUnitTesting.TemperatureConversion.FahToCel();
-            Console.WriteLine("Fahrenheit to Celcius : "+ConvertFahrenheitToCelcius);
+            //double ConvertFahrenheitToCelcius = NUnitTesting.TemperatureConversion.FahToCel();
+            //Console.WriteLine("Fahrenheit to Celcius : "+ConvertFahrenheitToCelcius);
 
-            NUnitTesting.MonthlyPayment.MonthlyPaymentCalculate();
+            //NUnitTesting.MonthlyPayment.MonthlyPaymentCalculate();
+            NUnitTesting.SqrtNewtonMethod.NewtonMethod();
             Console.ReadLine();
 
         }
