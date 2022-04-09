@@ -49,6 +49,7 @@
     <Compile Include="LogicalPrograms\PrimeNumber.cs" />
     <Compile Include="LogicalPrograms\ReverseNumber.cs" />
     <Compile Include="LogicalPrograms\ElaspedTimeStopWatch.cs" />
+    <Compile Include="NUnitTesting\MonthlyPayment.cs" />
     <Compile Include="NUnitTesting\TemperatureConversion.cs" />
     <Compile Include="NUnitTesting\VendingMachine.cs" />
     <Compile Include="Program.cs" />

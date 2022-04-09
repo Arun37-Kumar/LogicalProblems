@@ -33,6 +33,8 @@ namespace LogicalProgramming
 
             double ConvertFahrenheitToCelcius = NUnitTesting.TemperatureConversion.FahToCel();
             Console.WriteLine("Fahrenheit to Celcius : "+ConvertFahrenheitToCelcius);
+
+            NUnitTesting.MonthlyPayment.MonthlyPaymentCalculate();
             Console.ReadLine();
 
         }
